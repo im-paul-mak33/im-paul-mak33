@@ -2,12 +2,19 @@
 <div align="center">
 <img width="150" src="https://img.shields.io/github/followers/im-paul-mak33?label=Follow&style=social"/> <img width="110" src="https://visitor-badge.laobi.icu/badge?page_id=im-paul-mak33.im-paul-mak33"/> </div>
 
+<div align="center">
+
 ### Hi there 👋, Thank you for bringing your :eyes: into my profile. :grin:
 ## It is so Great to see you here! :smile: <br>
-<p align="center"> :smiley: <b>Here is my <a href="https://app.daily.dev/paulmak33">Daily.dev</a> Stats</b></p><br>
+
+</div>
+ 
+<h3><p align="center"> :smiley: Here is my <a href="https://app.daily.dev/paulmak33">Daily.dev</a> Stats </p></h3><br>
 <div align="center" >
 <a href="https://app.daily.dev/paulmak33" ><img src="https://github.com/im-paul-mak33/im-paul-mak33/blob/main/devcard.svg" width="400" alt="Sourav Paul's Dev Card"/></a> <br></div>
-:point_up_2: Click on the Card for more detailed info:information_source: <br>
+<h3><p align="center"> :point_up_2: Click on the Card for more detailed info:information_source: </p></h3><br>
+
+<div align="center">
 
 🔭 I’m currently on [#javascript30](https://javascript30.com) Day Challenge :pencil2: Created by : ![ @wesbos ]("https://twitter.com/wesbos):man: <br><br>
 🌱 I’m currently learning Typescript and looking forward to Typescript + React <br><br>
@@ -52,7 +59,7 @@
 
 ### 📧 You can reach out me at [![image](https://user-images.githubusercontent.com/106434904/188209066-1cf117bb-3636-4381-ab77-f34d5f5d4da9.png)](mailto:souravpaul210789@gmail.com)  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paulmak33)  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-paul-mak33)
 
- 
+</div>
 
 
 
