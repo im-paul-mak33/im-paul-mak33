@@ -9,7 +9,7 @@
 
 </div>
  
-<h3><p align="center"> :smiley: Here is my <a href="https://app.daily.dev/paulmak33">Daily.dev</a> Stats 🎴 </p></h3><br>
+<h3><p align="center"> :smiley: Here is my <a href="https://app.daily.dev/paulmak33">Daily.dev</a> Stats 🎴 </p></h3>
 <div align="center" >
 <a href="https://app.daily.dev/paulmak33" ><img src="https://github.com/im-paul-mak33/im-paul-mak33/blob/main/devcard.svg" width="400" alt="Sourav Paul's Dev Card"/></a> <br></div>
 <h3><p align="center"> :point_up_2: Click on the Card for more detailed info:information_source: </p></h3><br>
