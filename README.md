@@ -9,7 +9,7 @@
 
 ![Black Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/106434904/193063048-89aa1d51-348e-42f9-bca6-c436163084ed.png)
 
-## It is so Great to see you here! :smile: <br>
+# It is so Great to see you here! :smile: <br>
 
 </div>
  
