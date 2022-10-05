@@ -1,10 +1,11 @@
-
+<!--
 <div align="center">
 <img width="150" src="https://img.shields.io/github/followers/im-paul-mak33?label=Follow&style=social"/> <img width="110" src="https://visitor-badge.laobi.icu/badge?page_id=im-paul-mak33.im-paul-mak33"/> </div>
+-->
 
 <div align="center">
 
-### Hi there 👋, Thank you for bringing your :eyes: into my profile. :grin:
+# Hi there 👋, Thank you for bringing your :eyes: into my profile. :grin:
 
 ![Black Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/106434904/193063048-89aa1d51-348e-42f9-bca6-c436163084ed.png)
 
