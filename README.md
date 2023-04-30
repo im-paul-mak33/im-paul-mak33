@@ -20,7 +20,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning Typescript and looking forward to Typescript + React <br><br>
+🌱 I’m currently learning Typescript & Next.js & also applying what I Learn. <br><br>
 🤖 Also Learning AI(python) and Platform Technology(C#) as my college curriculum ask me too🤷, not a bad thing though but it is also lol😂 <br>
 💬 Ask me about Tech🤖, Geopolitics🌍, History📜, Science📡, Sports🏓, Anime🍥.
 
