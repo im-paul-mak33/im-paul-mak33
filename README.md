@@ -58,9 +58,11 @@
  <img src="https://camo.githubusercontent.com/ed03748e95f8b14c77f71b5833e08c0859c72f3ca1bc7f31d6ed1f018db4d845/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a656e6b696e732d2532333243353236332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-paul-mak33&theme=tokyonight) <br><br>
+![Paul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-paul-mak33&theme=tokyonight) <br><br>
 
-[![Paul's GitHub stats](https://github-readme-stats-git-master-im-paul-mak33.vercel.app/api?username=im-paul-mak33)](https://github.com/im-paul-mak33/github-readme-stats)
+[![Paul's GitHub stats](https://github-readme-stats-git-master-im-paul-mak33.vercel.app/api?username=im-paul-mak33&theme=tokyonight)](https://github.com/im-paul-mak33/github-readme-stats)
+
+![Paul's Github streaks](https://github-readme-streak-stats-im-paul-mak33.vercel.app/api/top-langs/?username=im-paul-mak33&theme=tokyonight) <br><br>
 
 ### 📧 You can reach out me at <br> <br> [![image](https://user-images.githubusercontent.com/106434904/188209066-1cf117bb-3636-4381-ab77-f34d5f5d4da9.png)](mailto:souravpaul210789@gmail.com)  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paulmak33)  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-paul-mak33)
 
