@@ -66,11 +66,6 @@
 
 </div>
 
-[https://github-readme-stats-beta-seven-19.vercel.app/](https://github-readme-stats-git-master-im-paul-mak33.vercel.app/)
-
-
-
-
 
 <!--
 **im-paul-mak33/im-paul-mak33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
