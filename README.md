@@ -60,7 +60,7 @@
 
 ![Paul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-paul-mak33&theme=tokyonight) <br><br>
 
-<img align="center" alt="Paul's Github Stats" src="https://github-readme-stats-im-paul-mak33.vercel.app/api?username=im-paul-mak33&show_icons=true" />
+<img align="center" alt="Paul's Github Stats" src="https://github-readme-stats-beta-seven-19.vercel.app/api?username=im-paul-mak33&show_icons=true" /> <br><br>
 
 [![Paul's GitHub Streak](https://github-readme-streak-stats-three-ruddy.vercel.app?user=im-paul-mak33&theme=tokyonight)](https://git.io/streak-stats) <br><br>
 
