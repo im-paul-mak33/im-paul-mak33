@@ -64,7 +64,7 @@
 
 [![Paul's GitHub Streak](https://github-readme-streak-stats-three-ruddy.vercel.app?user=im-paul-mak33&theme=tokyonight)](https://git.io/streak-stats) <br><br>
 
-### 📧 You can reach out me at <br> <br> [![image](https://user-images.githubusercontent.com/106434904/188209066-1cf117bb-3636-4381-ab77-f34d5f5d4da9.png)](mailto:souravpaul210789@gmail.com)  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paulmak33)  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-paul-mak33)
+### 📧 You can reach out me to at below handles<br> <br> [![image](https://user-images.githubusercontent.com/106434904/188209066-1cf117bb-3636-4381-ab77-f34d5f5d4da9.png)](mailto:souravpaul210789@gmail.com)  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paulmak33)  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-paul-mak33)
 
 </div>
 
